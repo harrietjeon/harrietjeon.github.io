@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a Predoctoral Fellow at the Tobin Center at Yale University.
+My name is Harriet Jeon. I am currently a Predoctoral Fellow at the Tobin Center at Yale University.
 
-I am interested in research in the intersection between industrial organization and health economics. Prior to Yale, I worked as an Analyst at Analysis Group in the Boston office. 
+I am interested in research at the intersection of industrial organization and health economics. Prior to Yale, I worked as an Analyst at Analysis Group in the Boston office. 
